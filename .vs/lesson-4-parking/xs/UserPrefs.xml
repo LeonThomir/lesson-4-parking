@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{145EF994-50AC-4FCC-8923-7E99AEE5EC63}|Default">
+  <MonoDevelop.Ide.ItemProperties.lesson-4-parking PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="lesson-4-parking/Program.cs">
+    <Files>
+      <File FileName="lesson-4-parking/Program.cs" Line="14" Column="36" />
+      <File FileName="lesson-4-parking/Models/CarPark.cs" Line="26" Column="137" />
+      <File FileName="lesson-4-parking/Models/CarParkCharge.cs" Line="23" Column="118" />
+      <File FileName="lesson-4-parking/Models/Customer.cs" Line="8" Column="1" />
+      <File FileName="lesson-4-parking/Test/Driver.cs" Line="11" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lesson-4-parking" expanded="True">
+            <Node name="lesson-4-parking" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Test" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
